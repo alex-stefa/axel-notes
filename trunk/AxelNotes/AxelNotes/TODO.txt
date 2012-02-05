@@ -1,0 +1,52 @@
+﻿
+
+- alarms buton + form -----> note on-top window
+- individual alarm button on editor
+- auto search when type in txt filter
+- fonts ---> use *this*
+- settings form
+- backup??
+- autosave option
+- locked icon
+- about + how to
+- status in title bar  --- line+column position
+- tooltips (shortcuts)
+- info: date created, last modified
+- row numbers (+on/off)
+- add custom font
+- spellcheck language
+- default spellchack enables/not
+- add custom color
+- switch databases --> save settings
+- insert date/time
+- configurable background colors
+- notes list width in config
+- defocus match-case & title-only
+- alarms / reminders
+- sort by date (creation / modified), title
+- red txtbox background on not found
+- pattern found x times in y notes / pattern not found
+- auto group: Web Clips
+- goto note URL button
+- tab stops
+- perform rename on enter (txt + combo)
+- check notes for valid names (no duplicates or special chars)
+- startup minimized (cmd line switch)
+- auto-start with windoze
+- eclipse style find markers next to vert scroll bar
+- count + display filter occurences & sort notes
+- check if already running (+ cmd line param to turn off)
+- save last window position
+- notes count in group name when mouse over
+- always on top option
+- DropBox synchronization without closing the program. Put the notes file into your DropBox folder and it will be automatically synchronized across all your PCs. And now you don't have to remember to close CintaNotes before leaving!
+- LINE WRAP OPTION !!!
+- editable font + size + colors lists [add item button, popup rclick to remove]
+- shortcut key editor
+- floating reminder needs no settings (except background); allow move & resize;
+- add 'show floater' button to main button of text note
+- show 'note is locked' message if dblclick on locked note
+- automove floater symmetric to screen center on mouseover except 'x' box and then move back!
+- define preferred position
+- embed source hyperlink before paste in a new DIV -- make embed string editable in config
+- on each startup check if set to run on windows startup and update path to path to running exe

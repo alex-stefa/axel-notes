@@ -1,0 +1,102 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AxelNotes.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NotesFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BackupFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="HighlightMarker" Type="System.String" Scope="User">
+      <Value Profile="(Default)">|</Value>
+    </Setting>
+    <Setting Name="TextHighlightColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">255, 255, 128</Value>
+    </Setting>
+    <Setting Name="HeadingMarker" Type="System.String" Scope="User">
+      <Value Profile="(Default)">!</Value>
+    </Setting>
+    <Setting Name="TextHeadingFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Lucida Console, 14.25pt, style=Bold</Value>
+    </Setting>
+    <Setting Name="TextNormalFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Lucida Console, 9.75pt</Value>
+    </Setting>
+    <Setting Name="ShowLineNr" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LastOpen" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CacheSizeKB" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">1024</Value>
+    </Setting>
+    <Setting Name="LineWrap" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="BackupVersions" Type="System.UInt32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="BackupEnabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="AutosaveOnLostFocus" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="AutosaveTimerEnabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="AutosaveTimerInterval" Type="System.UInt32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="AlwaysOnTop" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="RunAtStartup" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TextNormalColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="TextHeadingColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">0, 0, 192</Value>
+    </Setting>
+    <Setting Name="TextBackgroundColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="TextCurrentLineColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">192, 255, 192</Value>
+    </Setting>
+    <Setting Name="ShowInTaskbar" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MinimizeToTray" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CloseToTray" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="AllowMultipleInstances" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="NotesListColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="DeleteToRecycleBin" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="TextTabSize" Type="System.UInt32" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="FloaterColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">249, 247, 148</Value>
+    </Setting>
+    <Setting Name="FloaterPosition" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">50, 850</Value>
+    </Setting>
+    <Setting Name="FloaterMinSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">400, 24</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
